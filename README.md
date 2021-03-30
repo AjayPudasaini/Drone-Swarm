@@ -31,5 +31,3 @@ Although it is harder to manage, it is possible.
 14. flip_forward
 15. flip_backward
 
-## NOTE
-### This source is still in alpha phase, can cause issues according to devices and tello.
